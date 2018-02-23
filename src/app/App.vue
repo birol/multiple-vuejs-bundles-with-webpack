@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <p>naber</p>
     <router-view/>
   </div>
 </template>
